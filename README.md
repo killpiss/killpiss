@@ -38,12 +38,6 @@
       </a>
       <br>Rust
     </td>
-    <td align="center" width="96">
-      <a href="#killpiss">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" height="48" />
-      </a>
-      <br>Node.js
-    </td>
      <td align="center"  width="96">
        <a href="#killpiss">
          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" height="48"/>
@@ -61,6 +55,12 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" width="48" height="48"/>
       </a>
       <br>Vim
+    </td>
+    <td align="center" width="96">
+      <a href="#killpiss">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" height="48" />
+      </a>
+      <br>Node.js
     </td>
       <td align="center"  width="96">
         <a href="#killpiss">
