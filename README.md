@@ -69,7 +69,7 @@
       <br>Bash
     <td align="center"  width="96">
       <a href="#killpiss">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" width="48" height="48"/>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" height="48"/>
       </a>
       <br>Linux
     </td>
