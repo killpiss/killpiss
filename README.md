@@ -40,6 +40,21 @@
       <br>VSCode
     </td>
     <td align="center"  width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" width="48" height="48"/>
+      </a>
+      <br>Vim
+    </td>
+      <td align="center"  width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="48" height="48"/>
+      </a>
+      <br>Bash
+    </td>
+      <td align="center"  width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" height="48"/>
+      </a>
+      <br>Python
+    </td>
+    <td align="center"  width="96">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" width="48" height="48"/>
       </a>
       <br>Linux
